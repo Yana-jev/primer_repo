@@ -1,6 +1,6 @@
 # Gestor de Marcadores Simples
 
-Una interfaz limpia y simple para organizar tus sitios web favoritos. Abre una nueva pestaña del navegador y ve cómo tus sitios se cargan al instante. 
+
 ## 📄 Descripción
 
 Este repositorio contiene una landing page (proyecto de estudios) que funciona tanto en escritorio, como en móvil y tableta. Una interfaz limpia y simple para organizar tus sitios web favoritos. Abre una nueva pestaña del navegador y ve cómo tus sitios se cargan al instante.
