@@ -1,6 +1,9 @@
 # Gestor de Marcadores Simples
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 90b6317b2c649bc1de419970976a70eba0811aee
 ## 📄 Descripción
 
 Este repositorio contiene una landing page (proyecto de estudios) que funciona tanto en escritorio, como en móvil y tableta. Una interfaz limpia y simple para organizar tus sitios web favoritos. Abre una nueva pestaña del navegador y ve cómo tus sitios se cargan al instante.
