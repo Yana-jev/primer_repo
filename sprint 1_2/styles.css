@@ -26,13 +26,14 @@ body p {
   background-color: #FA5959;
 }
 
-.container.nav .nav-item .nav-link.active {
+.navbar.navbar-expand-lg .nav-item .nav-link {
   color: black;
+  text-transform: uppercase;
 }
-.container.nav .nav-item .nav-link {
+.navbar.navbar-expand-lg .nav-item .nav-link {
   color: #98999b;
 }
-.container.nav .nav-item .nav-link:hover {
+.navbar.navbar-expand-lg .nav-item .nav-link:hover {
   color: #FA5959;
 }
 
@@ -116,17 +117,20 @@ header .nav-link:hover {
   border: none;
 }
 
-.accordion-item {
-  border: none;
-}
-
-.accordion-header {
+.row.accordion {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #98999b;
   padding: 10px;
   cursor: pointer;
+}
+.row.accordion .accordion-item {
+  border: none;
+  border-bottom: 1px solid #cccccc; /* замените #cccccc на ваш цвет */
+}
+
+.nav.nav-tabs .nav-link {
+  border: none;
 }
 
 .footer {
